@@ -1,3 +1,3 @@
 FROM ubuntu
-RUN echo "malik hai hum bero"> /tmp/iccpfile
+RUN echo "agar ye ho gya to samjo moj aa gayi"> /tmp/iccpfile
 
